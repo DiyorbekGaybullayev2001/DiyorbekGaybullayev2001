@@ -1,4 +1,4 @@
-### Hi, I'm Diyorbek G'aybullayev 
+### Hi, I'm Diyorbek G'aybullayev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" >
 
 <!--
 **DiyorbekGaybullayev2001/DiyorbekGaybullayev2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
