@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Diyorbek G'aybullayev <img src="<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p>" width="30px">
 
 <!--
 **DiyorbekGaybullayev2001/DiyorbekGaybullayev2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
